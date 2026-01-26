@@ -22,4 +22,24 @@ I enjoy automating processes, working with data, and developing APIs that are ea
 ### 🧾 Sales Reports Automation System
 **Python, Pandas, SQLite**  
 Automates sales data processing: cleaning, analysis, SQLite storage and automatic report generation.  
-Includes
+Includes modular code, documentation and version control.
+
+### ✅ Task Manager REST API
+**FastAPI, Python, Pydantic, SQLite**  
+CRUD API with data validation, database persistence and automatic Swagger documentation.
+
+---
+
+## 🌍 About Me
+- Based in **Palma de Mallorca**, open to **remote opportunities**
+- Strong focus on **problem solving, autonomy and continuous learning**
+- Background in hospitality, customer service and sales
+- Languages: Spanish (native), English (intermediate), Italian (basic), German (A1)
+
+---
+
+## 📫 Contact
+**Email:** leandrocaccin@outlook.es  
+**LinkedIn:** https://linkedin.com/in/leandrocaccin  
+**GitHub:** https://github.com/leandrocaccin
+
